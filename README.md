@@ -1,4 +1,4 @@
-# Microsoft-Fabric-Medallion-Architecture-Project
+# Microsoft-Fabric-Medallion-Architecture-End-to-Project
 This repository contains a complete, end-to-end Microsoft Fabric project implementing the Medallion Architecture (Bronze → Silver → Gold) using Data Pipelines,Lakehouse,and a Semantic Model (Direct Lake).
 The project is production-aligned, scalable, and suitable for learning, demos, interviews, and real-world Fabric implementations.
 
